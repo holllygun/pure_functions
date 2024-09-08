@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/psw7nbb0hjusgxdn/branch/main?svg=true)](https://ci.appveyor.com/project/holllygun/pure-functions/branch/main)
